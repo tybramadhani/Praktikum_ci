@@ -1,12 +1,6 @@
 <!DOCTYPE html>
-<html lang="id">
-<head>
-	<meta charset="utf-8">
-	<title>Data Shop</title>
-	
-</head>
-<body>
-<table border = 1>
+
+<table border = 1 id="tabeltoko" class>
         <?php
         foreach ($data_toko_kirim as $data){
         ?>
@@ -18,7 +12,5 @@
     }
     ?>
     </table>
-	
-</body>
-</html>
+
 

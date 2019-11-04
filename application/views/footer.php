@@ -1,3 +1,5 @@
-	<h1> Ini Footer </h1>
+
 </body>
+<script>
+    
 </html>
